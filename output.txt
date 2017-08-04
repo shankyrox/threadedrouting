@@ -1,0 +1,3 @@
+intime=0 src=A dst=E time:21 path= A C E 
+intime=0 src=A dst=T time:35 path= A F S T 
+intime=0 src=A dst=E time:24 path= A F E 

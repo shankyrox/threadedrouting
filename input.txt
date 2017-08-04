@@ -1,0 +1,11 @@
+6
+A 2 C 5 F 6 L
+C 2 A 5 E 5 H
+F 3 A 6 E 2 S 3 L
+E 2 C 5 F 2 M
+S 2 F 3 T 10 M
+T 1 S 10 H
+3
+0 A E H
+0 A T M
+0 A E L
